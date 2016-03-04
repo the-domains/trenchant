@@ -1,0 +1,28 @@
+name: Trenchant
+favicon: null
+layout_spectrum: 0.2879280454944819
+typography_spectrum: 0.33769847685471177
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7309687472879887
+  lightness: 0.871991747058928
+  saturation: 0.8716743823606521
+  rhythmicContrast: 0.33453043340705335
+purpose: []
