@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Trenchant]]></title>
+        <description><![CDATA[Trenchant]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 18:32:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How would it change your life if you were to defend the child? ]]></title>
+            <description><![CDATA[<article><h1>How would it change your life if you were to defend the child? </h1><p>This won’t be a full-fledged essay, or a carefully crafted bit of logic to convince you that you should care about the life of a child in South Carolina, if you don’t already. (If you haven’t seen the video yet: click here.) I’m wrecked by the viciousness of these police attacks, by the frequency of them — but in this moment, I just want to ask a simple question to those who respond with some version of the statement, “But we don’t know the full story.” </p></article>]]></description>
+            <link>undefinedan-honest-question-for-those-who-defend-the-spring-valley-po/index.html</link>
+            <guid isPermaLink="false">1f4f8c2d-0b7a-4a63-80df-712c74b9a768</guid>
+            <pubDate>Fri, 04 Mar 2016 18:31:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
