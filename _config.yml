@@ -1,19 +1,4 @@
-name: Trenchant
-favicon: null
-layout_spectrum: 0.2879280454944819
 typography_spectrum: 0.33769847685471177
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#04044a'
@@ -25,4 +10,23 @@ color:
   lightness: 0.875
   saturation: 0.875
   rhythmicContrast: 0.33453043340705335
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2879280454944819
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Trenchant
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: "1: Recording\_"
+    id: a169577d-951d-43ce-819e-f7a697f89929
+    type: content
+favicon: null
 purpose: []
